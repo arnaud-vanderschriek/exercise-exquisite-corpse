@@ -9,3 +9,4 @@ Même si ils étaient les meilleurs amis du monde, il ne les laisseraient pas fa
 
 
 __salut les amis, me voila Marié__, ##comment sa mariégit checkout jeason __
+Je n'arrivais pas à régler mon conflit git... La seule solution était de demander de l'aide à mes cammarade... Et la boum ils m'ont lapidés dans la chill room
